@@ -1,6 +1,6 @@
 {
     "name": "potter/container-interfaces",
-    "description": "PHP Container Interfaces",
+    "description": "PHP Container Interface Collection",
     "type": "metapackage",
     "require": {
         "php": "^8.3",
