@@ -1,2 +1,2 @@
 # ContainerInterfaces
-PHP Container Interfaces
+PHP Container Interface Collection
