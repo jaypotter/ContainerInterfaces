@@ -1,11 +1,11 @@
 {
     "name": "potter/container-interfaces",
-    "description": "PHP Container Interface Collection",
+    "description": "PHP Collection of Container Interfaces",
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/container-interface": "dev-main",
-        "potter/container-aware-interface": "dev-main"
+        "potter/container-interface": "v0.0.1-alpha@alpha",
+        "potter/container-aware-interface": "v0.0.1-alpha@alpha"
     },
     "suggest": {
         "potter/container": "dev-main",
@@ -19,5 +19,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
